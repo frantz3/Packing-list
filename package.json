@@ -26,7 +26,6 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://frantz3.github.io/packing-list",
   "browserslist": {
     "production": [
       ">0.2%",

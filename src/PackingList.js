@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import './index.css';
 
 function PackingList({ items, onDeleteItem, onToggleItem, onClearList}) {
 

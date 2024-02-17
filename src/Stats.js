@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+import React from "react";
+import './index.css';
 
 function Stats({ items }) {
     if (!items.length) {
